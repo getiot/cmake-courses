@@ -1,3 +1,7 @@
 *.o
 *.tmp
 build
+
+*.cmake
+CMakeCache.txt
+CMakeFiles/
